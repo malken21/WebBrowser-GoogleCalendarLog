@@ -1,0 +1,2 @@
+# WebBrowser-GoogleCalendarLog
+ Chrome拡張機能とGoogle Apps Scriptを使って閲覧したサイトをGoogleカレンダーに記録する
